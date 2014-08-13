@@ -1,6 +1,6 @@
-This is  NPR morning show application that plays streams 
+This repo is for an application that plays morning streams from the NPR API
 
-creating with AngularJS
+Created using AngularJS
 
 All credit goes to this site for the tutorial:
 
